@@ -1,4 +1,20 @@
 [{  
+	"modname":"PKs_Rebalancing",  
+	"tags":["地图扩展","怪物扩展","物品扩展"],  
+	"author":"dissociativity",  
+	"ver":"Zikowang汉化2019.04.08",  
+	"info":"详情参考github相关页面。",  
+	"addr":"mods/PKs_Rebalancing-master.zip"  
+}, 
+{  
+	"modname":"Cataclysm++",  
+	"tags":["地图扩展","怪物扩展","物品扩展"],  
+	"author":"Noctifer-de-Mortem",  
+	"ver":"Zikowang汉化2019.04.06",  
+	"info":"详情参考github相关页面。。",  
+	"addr":"mods/nocts_cata_mod-master.zip"  
+}, 	
+{  
 	"modname":"商人",  
 	"tags":["地图扩展","NPC扩展"],  
 	"author":"Undereastern",  
